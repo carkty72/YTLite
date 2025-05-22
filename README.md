@@ -1,3 +1,8 @@
+<details>
+  <a href="https://decrypt.day/app/id544007664">Download IPA</a>
+  <a href="https://litterbox.catbox.moe">Upload IPA</a>
+</details>
+
 # YouTube Plus (ex. YTLite)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
